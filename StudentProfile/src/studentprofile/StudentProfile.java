@@ -6,5 +6,8 @@ public class StudentProfile {
         System.out.println("Name: MUHAMMAD DANISH AKMAL BIN HAZLAN");
         System.out.println("Student ID: S87440");
         System.out.println("Programme: Bachelor of Computer Science");
+        System.out.println("Semester : Semester 1");
+        System.out.println("Favourite language : Java");
+        
     }
 }
